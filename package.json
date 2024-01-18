@@ -1,7 +1,7 @@
 {
   "name": "@harslanhafeez/c3-vue",
   "description": "C3 Vue.js JavaScript/TypeScript libs",
-  "version": "2020.9.5",
+  "version": "2020.9.6",
   "license": "Apache-2.0",
   "author": "Arslan <harslanhafeez@gmail.com>",
   "main": "dist/index.js",
@@ -136,5 +136,13 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslana11/c3-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arslana11/c3-vue/issues"
+  },
+  "homepage": "https://github.com/arslana11/c3-vue#readme"
 }

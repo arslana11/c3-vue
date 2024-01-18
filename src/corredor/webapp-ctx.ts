@@ -1,4 +1,4 @@
-import { corredor } from '@cortezaproject/corteza-js'
+import { corredor } from '@harslanhafeez/c3-js'
 import pino from 'pino'
 
 /**

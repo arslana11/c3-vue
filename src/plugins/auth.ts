@@ -1,5 +1,5 @@
 import { Make } from '../libs/url'
-import { system, apiClients } from '@cortezaproject/corteza-js'
+import { system, apiClients } from '@harslanhafeez/c3-js'
 import { PluginFunction } from 'vue'
 
 const lsAuthJWTKey = 'auth.jwt'
@@ -97,10 +97,10 @@ export class Auth {
   set JWT (JWT: string|undefined) {
     if (!JWT) {
       this[jwt] = undefined
-      this.localStorage.removeItem(lsAuthJWTKey)
+      // this.localStorage.removeItem(lsAuthJWTKey)
     } else if (this[jwt] !== JWT) {
       this[jwt] = JWT
-      this.localStorage.setItem(lsAuthJWTKey, JWT)
+      // this.localStorage.setItem(lsAuthJWTKey, JWT)
     }
   }
 

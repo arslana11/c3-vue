@@ -1,4 +1,4 @@
-import { compose } from '@cortezaproject/corteza-js'
+import { compose } from '@harslanhafeez/c3-js'
 
 const success = { variant: 'success', countdown: 5 }
 const warning = { variant: 'warning', countdown: 120 }

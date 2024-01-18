@@ -1,5 +1,5 @@
 import { PluginFunction } from 'vue'
-import { eventbus } from '@cortezaproject/corteza-js'
+import { eventbus } from '@harslanhafeez/c3-js'
 
 interface KV { [_: string]: string }
 interface UIProp { name: string; value: string }

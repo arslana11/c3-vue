@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/ban-ts-ignore */
-import { compose, apiClients, corredor } from '@cortezaproject/corteza-js'
+import { compose, apiClients, corredor } from '@harslanhafeez/c3-js'
 import ComposeUIHelper from './compose-ui'
 import pino from 'pino'
 

@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/explicit-function-return-type */
 
 import moment from 'moment'
-import { system } from '@cortezaproject/corteza-js'
+import { system } from '@harslanhafeez/c3-js'
 
 async function sleep (t) {
   return new Promise(resolve => setTimeout(resolve, t))

@@ -1,7 +1,7 @@
 {
   "name": "@harslanhafeez/c3-vue",
   "description": "C3 Vue.js JavaScript/TypeScript libs",
-  "version": "2020.9.6",
+  "version": "2020.9.7",
   "license": "Apache-2.0",
   "author": "Arslan <harslanhafeez@gmail.com>",
   "main": "dist/index.js",

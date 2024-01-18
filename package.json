@@ -1,7 +1,7 @@
 {
   "name": "@harslanhafeez/c3-vue",
   "description": "C3 Vue.js JavaScript/TypeScript libs",
-  "version": "2020.9.8",
+  "version": "2020.9.9",
   "license": "Apache-2.0",
   "author": "Arslan <harslanhafeez@gmail.com>",
   "main": "dist/index.js",
@@ -21,10 +21,10 @@
     "pre-commit": "yarn lint"
   },
   "dependencies": {
-    "@harslanhafeez/c3-js": "^2023.0.5",
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@harslanhafeez/c3-js": "^2023.0.7",
     "acorn": "^7.3.1",
     "bootstrap-vue": "2.2.2",
     "kind-of": "^6.0.3",
